@@ -43,3 +43,6 @@ which is very popular in web development and is one of the most comfortable to w
 ![desktop design 01](/design/desktop-design.jpg)
 ![desktop design 02](/design/desktop-active-state.jpg)
 
+### Link
+
+https://zalliopablo.github.io/article_preview_component
